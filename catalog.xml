@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+
+  <!-- Map any reference to podcast-rss.xsd to our local file -->
+  <uri name="podcast-rss.xsd" uri="schemas/podcast-rss.xsd"/>
+
+  <!-- You can also use system ID mapping if needed -->
+  <system systemId="podcast-rss.xsd" uri="schemas/podcast-rss.xsd"/>
+
+</catalog>

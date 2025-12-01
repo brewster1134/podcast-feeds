@@ -1,0 +1,30 @@
+{
+  "cSpell.words": [
+    "kbps",
+    "Missouriensis",
+    "pcdata"
+  ],
+  "files.associations": {
+    "*.xml": "xml"
+  },
+  "xml.catalogs": [
+    "xml.catalog"
+  ],
+  "xml.completion.autoCloseTags": true,
+  "xml.fileAssociations": [
+    {
+      "pattern": "**/podcasts/**/feed.xml",
+      "systemId": "schemas/podcast-rss.xsd"
+    },
+    {
+      "pattern": "**/podcasts/**/episodes/*.xml",
+      "systemId": "schemas/podcast-rss.xsd"
+    }
+  ],
+  "xml.format.enabled": true,
+  "xml.format.splitAttributes": "preserve",
+  "xml.validation.disallowDocTypeDecl": false,
+  "xml.validation.enabled": true,
+  "xml.validation.resolveExternalEntities": false,
+  "xml.validation.schema.enabled": "always"
+}
