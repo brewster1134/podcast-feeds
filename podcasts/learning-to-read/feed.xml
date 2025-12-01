@@ -39,21 +39,21 @@
 
     <!-- Episodes -->
     <item>
-      <title>Landon Carter</title>
-      <link>https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read/episodes/E001-landon-carter</link>
-      <description>Politics and Plantations</description>
+      <title>Barrington Hall</title>
+      <link>https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read/episodes/E003-barrington-hall</link>
+      <description>Punk and Protest</description>
       <enclosure
-        url="https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read/episodes/E001-landon-carter.mp3"
-        length="5746937"
+        url="https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read/episodes/E003-barrington-hall.mp3"
+        length="15506284"
         type="audio/mpeg"
       />
-      <guid isPermaLink="false">learning-to-read-E001-landon-carter</guid>
-      <pubDate>Wed, 28 Nov 2025 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">learning-to-read-E003-barrington-hall</guid>
+      <pubDate>Wed, 30 Nov 2025 08:00:00 GMT</pubDate>
       <itunes:author>Brewster</itunes:author>
-      <itunes:summary>Politics and Plantations</itunes:summary>
-      <itunes:duration>5:59</itunes:duration>
+      <itunes:summary>Punk and Protest</itunes:summary>
+      <itunes:duration>16:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:episode>1</itunes:episode>
+      <itunes:episode>3</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -78,22 +78,23 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
 
+
     <item>
-      <title>Barrington Hall</title>
-      <link>https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read/episodes/E003-barrington-hall</link>
-      <description>Punk and Protest</description>
+      <title>Landon Carter</title>
+      <link>https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read/episodes/E001-landon-carter</link>
+      <description>Politics and Plantations</description>
       <enclosure
-        url="https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read/episodes/E003-barrington-hall.mp3"
-        length="15506284"
+        url="https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read/episodes/E001-landon-carter.mp3"
+        length="5746937"
         type="audio/mpeg"
       />
-      <guid isPermaLink="false">learning-to-read-E003-barrington-hall</guid>
-      <pubDate>Wed, 30 Nov 2025 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">learning-to-read-E001-landon-carter</guid>
+      <pubDate>Wed, 28 Nov 2025 08:00:00 GMT</pubDate>
       <itunes:author>Brewster</itunes:author>
-      <itunes:summary>Punk and Protest</itunes:summary>
-      <itunes:duration>16:09</itunes:duration>
+      <itunes:summary>Politics and Plantations</itunes:summary>
+      <itunes:duration>5:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:episode>3</itunes:episode>
+      <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
