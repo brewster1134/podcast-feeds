@@ -5,8 +5,12 @@
 
   <channel>
     <title>Learning to Read</title>
-    <link>https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read</link>
-    <atom:link href="https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://github.com/brewster1134/podcast-feeds/learning-to-read</link>
+    <atom:link
+      href="https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read/feed.xml"
+      rel="self"
+      type="application/rss+xml"
+    />
     <description>I'm Brewster, and im learning to read.</description>
     <language>en-us</language>
     <copyright>© 2025 Man Alive! Podcast Network</copyright>
@@ -30,20 +34,23 @@
     <image>
       <url>https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read/cover.jpg</url>
       <title>Learning to Read</title>
-      <link>https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read</link>
+      <link>https://github.com/brewster1134/podcast-feeds/learning-to-read</link>
     </image>
 
     <!-- Episodes -->
     <item>
-      <title>LTR: Landon Carter</title>
+      <title>Landon Carter</title>
       <link>https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read/episodes/E001-landon-carter</link>
-      <description>Landan Carter: Politics and Plantations</description>
-      <enclosure url="https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read/audio/E001-landon-carter.mp3" length="45678901" type="audio/mpeg"/>
+      <description>Politics and Plantations</description>
+      <enclosure
+        url="https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read/episodes/E001-landon-carter.mp3"
+        length="5746937"
+        type="audio/mpeg"
+      />
       <guid isPermaLink="false">learning-to-read-E001-landon-carter</guid>
-      <pubDate>Wed, 27 Nov 2024 08:00:00 GMT</pubDate>
-      <itunes:author>Your Name</itunes:author>
-      <itunes:summary>Landan Carter: Politics and Plantations</itunes:summary>
-      <itunes:image href="https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read/images/E001-landon-carter-thumbnail.jpg"/>
+      <pubDate>Wed, 28 Nov 2025 08:00:00 GMT</pubDate>
+      <itunes:author>Brewster</itunes:author>
+      <itunes:summary>Politics and Plantations</itunes:summary>
       <itunes:duration>5:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>1</itunes:episode>
@@ -52,35 +59,41 @@
     </item>
 
     <item>
-      <title>LTR: Iris Missouriensis</title>
+      <title>Iris Missouriensis</title>
       <link>https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read/episodes/E002-iris-missouriensis</link>
-      <description>Iris Missouriensis: Posion and Petals</description>
-      <enclosure url="https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read/audio/E002-iris-missouriensis.mp3" length="45678901" type="audio/mpeg"/>
+      <description>Posion and Petals</description>
+      <enclosure
+        url="https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read/episodes/E002-iris-missouriensis.mp3"
+        length="2498559"
+        type="audio/mpeg"
+      />
       <guid isPermaLink="false">learning-to-read-E002-iris-missouriensis</guid>
-      <pubDate>Wed, 27 Nov 2024 08:00:00 GMT</pubDate>
-      <itunes:author>Your Name</itunes:author>
-      <itunes:summary>Iris Missouriensis: Posion and Petals</itunes:summary>
-      <itunes:image href="https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read/images/E002-iris-missouriensis-thumbnail.jpg"/>
+      <pubDate>Wed, 29 Nov 2025 08:00:00 GMT</pubDate>
+      <itunes:author>Brewster</itunes:author>
+      <itunes:summary>Posion and Petals</itunes:summary>
       <itunes:duration>2:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:episode>1</itunes:episode>
+      <itunes:episode>2</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
 
     <item>
-      <title>LTR: Barrington Hall</title>
+      <title>Barrington Hall</title>
       <link>https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read/episodes/E003-barrington-hall</link>
-      <description>Barrington Hall: Punk and Protest</description>
-      <enclosure url="https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read/audio/E003-barrington-hall.mp3" length="45678901" type="audio/mpeg"/>
+      <description>Punk and Protest</description>
+      <enclosure
+        url="https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read/episodes/E003-barrington-hall.mp3"
+        length="15506284"
+        type="audio/mpeg"
+      />
       <guid isPermaLink="false">learning-to-read-E003-barrington-hall</guid>
-      <pubDate>Wed, 27 Nov 2024 08:00:00 GMT</pubDate>
-      <itunes:author>Your Name</itunes:author>
-      <itunes:summary>Barrington Hall: Punk and Protest</itunes:summary>
-      <itunes:image href="https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read/images/E003-barrington-hall-thumbnail.jpg"/>
+      <pubDate>Wed, 30 Nov 2025 08:00:00 GMT</pubDate>
+      <itunes:author>Brewster</itunes:author>
+      <itunes:summary>Punk and Protest</itunes:summary>
       <itunes:duration>16:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:episode>1</itunes:episode>
+      <itunes:episode>3</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
