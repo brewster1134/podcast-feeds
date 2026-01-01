@@ -38,26 +38,6 @@
 
     <!-- Episodes -->
     <item>
-      <title>China Today</title>
-      <link>https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read</link>
-      <description>Communism and CCTV: https://en.wikipedia.org/wiki/China_Today_(TV_program)</description>
-      <enclosure
-        url="https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read/episodes/E008-china-today.mp3"
-        length="2948701"
-        type="audio/mpeg"
-      />
-      <guid isPermaLink="false">learning-to-read-E008-china-today</guid>
-      <pubDate>Fri, 18 Sep 2025 08:00:00 GMT</pubDate>
-      <itunes:author>Brewster</itunes:author>
-      <itunes:summary>Communism and CCTV</itunes:summary>
-      <itunes:duration>3:04</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episode>8</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-
-    <item>
       <title>Habib</title>
       <link>https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read</link>
       <description>Iranian and Immigration: https://en.wikipedia.org/wiki/Habib_(singer)</description>
@@ -67,7 +47,7 @@
         type="audio/mpeg"
       />
       <guid isPermaLink="false">learning-to-read-E010-habib</guid>
-      <pubDate>Fri, 17 Sep 2025 08:00:00 GMT</pubDate>
+      <pubDate>Fri, 18 Sep 2025 08:00:00 GMT</pubDate>
       <itunes:author>Brewster</itunes:author>
       <itunes:summary>Iranian and Immigration</itunes:summary>
       <itunes:duration>3:18</itunes:duration>
@@ -87,12 +67,32 @@
         type="audio/mpeg"
       />
       <guid isPermaLink="false">learning-to-read-E009-ward-no-9-kolkata-municipal-corporation</guid>
-      <pubDate>Fri, 16 Sep 2025 08:00:00 GMT</pubDate>
+      <pubDate>Fri, 17 Sep 2025 08:00:00 GMT</pubDate>
       <itunes:author>Brewster</itunes:author>
       <itunes:summary>Corporations and Consolidations</itunes:summary>
       <itunes:duration>5:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episode>9</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
+      <title>China Today</title>
+      <link>https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read</link>
+      <description>Communism and CCTV: https://en.wikipedia.org/wiki/China_Today_(TV_program)</description>
+      <enclosure
+        url="https://brewster1134.github.io/podcast-feeds/podcasts/learning-to-read/episodes/E008-china-today.mp3"
+        length="2948701"
+        type="audio/mpeg"
+      />
+      <guid isPermaLink="false">learning-to-read-E008-china-today</guid>
+      <pubDate>Fri, 16 Sep 2025 08:00:00 GMT</pubDate>
+      <itunes:author>Brewster</itunes:author>
+      <itunes:summary>Communism and CCTV</itunes:summary>
+      <itunes:duration>3:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>8</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
