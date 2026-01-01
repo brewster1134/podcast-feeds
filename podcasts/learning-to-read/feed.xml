@@ -14,7 +14,7 @@
     <description>I'm Brewster, and im learning to read.</description>
     <language>en-us</language>
     <copyright>© 2025 Man Alive! Podcast Network</copyright>
-    <lastBuildDate>Wed, 27 Nov 2025 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Sep 2025 12:00:00 GMT</lastBuildDate>
     <ttl>60</ttl>
 
     <!-- iTunes Specific Tags -->
@@ -47,6 +47,7 @@
         type="audio/mpeg"
       />
       <guid isPermaLink="false">learning-to-read-E008-china-today</guid>
+      <pubDate>Fri, 18 Sep 2025 08:00:00 GMT</pubDate>
       <itunes:author>Brewster</itunes:author>
       <itunes:summary>Communism and CCTV</itunes:summary>
       <itunes:duration>3:04</itunes:duration>
@@ -66,6 +67,7 @@
         type="audio/mpeg"
       />
       <guid isPermaLink="false">learning-to-read-E010-habib</guid>
+      <pubDate>Fri, 17 Sep 2025 08:00:00 GMT</pubDate>
       <itunes:author>Brewster</itunes:author>
       <itunes:summary>Iranian and Immigration</itunes:summary>
       <itunes:duration>3:18</itunes:duration>
@@ -85,6 +87,7 @@
         type="audio/mpeg"
       />
       <guid isPermaLink="false">learning-to-read-E009-ward-no-9-kolkata-municipal-corporation</guid>
+      <pubDate>Fri, 16 Sep 2025 08:00:00 GMT</pubDate>
       <itunes:author>Brewster</itunes:author>
       <itunes:summary>Corporations and Consolidations</itunes:summary>
       <itunes:duration>5:37</itunes:duration>
@@ -104,6 +107,7 @@
         type="audio/mpeg"
       />
       <guid isPermaLink="false">learning-to-read-E007-kaz-hirai</guid>
+      <pubDate>Fri, 15 Sep 2025 08:00:00 GMT</pubDate>
       <itunes:author>Brewster</itunes:author>
       <itunes:summary>Presidents and Playstations</itunes:summary>
       <itunes:duration>7:16</itunes:duration>
@@ -123,6 +127,7 @@
         type="audio/mpeg"
       />
       <guid isPermaLink="false">learning-to-read-E006-mabel-alleyne</guid>
+      <pubDate>Fri, 14 Sep 2025 08:00:00 GMT</pubDate>
       <itunes:author>Brewster</itunes:author>
       <itunes:summary>English and Engravings</itunes:summary>
       <itunes:duration>3:03</itunes:duration>
@@ -142,6 +147,7 @@
         type="audio/mpeg"
       />
       <guid isPermaLink="false">learning-to-read-E005-luis-gallego</guid>
+      <pubDate>Fri, 13 Sep 2025 08:00:00 GMT</pubDate>
       <itunes:author>Brewster</itunes:author>
       <itunes:summary>Peasants and Provinces</itunes:summary>
       <itunes:duration>4:24</itunes:duration>
@@ -161,6 +167,7 @@
         type="audio/mpeg"
       />
       <guid isPermaLink="false">learning-to-read-E004-1949-uk-local-elections</guid>
+      <pubDate>Fri, 12 Sep 2025 08:00:00 GMT</pubDate>
       <itunes:author>Brewster</itunes:author>
       <itunes:summary>Parties and Parliament</itunes:summary>
       <itunes:duration>6:49</itunes:duration>
@@ -180,6 +187,7 @@
         type="audio/mpeg"
       />
       <guid isPermaLink="false">learning-to-read-E003-barrington-hall</guid>
+      <pubDate>Fri, 11 Sep 2025 08:00:00 GMT</pubDate>
       <itunes:author>Brewster</itunes:author>
       <itunes:summary>Punk and Protest</itunes:summary>
       <itunes:duration>16:09</itunes:duration>
@@ -199,6 +207,7 @@
         type="audio/mpeg"
       />
       <guid isPermaLink="false">learning-to-read-E002-iris-missouriensis</guid>
+      <pubDate>Fri, 10 Sep 2025 08:00:00 GMT</pubDate>
       <itunes:author>Brewster</itunes:author>
       <itunes:summary>Posion and Petals</itunes:summary>
       <itunes:duration>2:36</itunes:duration>
@@ -219,6 +228,7 @@
         type="audio/mpeg"
       />
       <guid isPermaLink="false">learning-to-read-E001-landon-carter</guid>
+      <pubDate>Fri, 09 Sep 2025 08:00:00 GMT</pubDate>
       <itunes:author>Brewster</itunes:author>
       <itunes:summary>Politics and Plantations</itunes:summary>
       <itunes:duration>5:59</itunes:duration>
